@@ -1,0 +1,215 @@
+/* Shree Ganeshay namah  */
+@media only screen and (max-width:1180px){
+    .banner-img{
+        padding: 160px 0px 0px 190px;
+    }
+    .mini{
+        height: 1100px;
+        
+    }
+
+    .cake-inner{
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width:640px) {
+    .banner-img{
+        padding: 160px 0px 0px 20px!important; 
+    }
+    .banner-img h1{
+        width: auto;
+        margin-left: 40px;
+    }
+}
+@media only screen and (max-width:680px){
+   .Schilers{
+    width: 100%!important;
+   }
+   .Schilers:after{
+    left: 40%!important;
+   }
+   .first-section h3{
+    width: 80%;
+    margin-left: 40px;
+   }
+   .lorem-one{
+    width: 90%;
+    margin-left: 40px;
+
+   }
+   .lorem-two{
+    width: 90%;
+    margin-left: 40px;
+   }
+}
+
+@media only screen and (max-width:600px) {
+    .second-section img{
+        padding-left: 50px;
+        height: 210px;
+    }
+}
+
+@media only screen and (max-width:1000px){
+    .main-slider{
+        /* background-color: transparent; */
+        flex-direction: column;
+        height: 1200px;
+    }
+    .main-slider .cake-one{
+        margin-bottom: 100px;
+    }
+    .main-slider .cake-two{
+        margin-bottom: 100px;
+    }
+    .main-slider .cake-three{
+        margin-bottom: 100px;
+    }
+}
+
+@media only screen and (max-width:420px){
+    .last-one{
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (max-width:950px){
+  .video-main{
+    margin-top: -10px;
+    
+  }
+}
+
+@media only screen and (max-width:1400px){
+    .fooder h1{
+        margin-bottom: 200px;
+    }
+    .next-fooder{
+        justify-content: center;
+        flex-wrap: wrap;
+        border: none;
+        gap: 20px;
+    }
+    .fooder-one{
+        border: 2px solid rgba(255,255,255,0.2);
+    }
+    .fooder-two{
+        border: 2px solid rgba(255,255,255,0.2);
+    }
+    .fooder-three{
+        border: 2px solid rgba(255,255,255,0.2);
+    }
+}
+
+@media only screen and (max-width:910px){
+    .next-fooder{
+        gap: 30px;
+    }
+    .fooder h1{
+        margin-bottom: 360px;
+    }
+}
+
+@media only screen and (max-width:480px){
+    .fooder-one{
+        /* max-width: 100%; */
+        
+    }
+}
+
+/* Blog section  */
+@media only screen and (max-width:1350px){
+    .main-fooder{
+        margin-bottom:240px;
+    }    
+}
+@media only screen and (max-width:910px){
+    .main-fooder{
+        margin-bottom: 400px;
+    }
+
+    .blog-header{
+        gap: 20%;
+    }
+}
+@media only screen and (max-width:400px){
+    .blog-header{
+        /* justify-content: center; */
+        gap: 2%!important;
+    }
+}
+
+@media only screen and (max-width:1710px){
+   .blog-main{
+    /* justify-content: center!important; */
+    flex-wrap: wrap;
+    gap: 40px;
+    /* flex-direction: column!important; */
+   }
+}
+@media only screen and (max-width:855px){
+   .blog-one,.blog-two{
+    flex-direction: column;
+   }
+    
+}
+
+/* blog section  */
+
+/* fooder section  */
+
+@media only screen and (max-width:395px){
+   .lower-flex ul{
+    margin-top: 15px;
+    justify-content: center!important;
+   }
+    
+}
+
+/* footer section  */
+@media only screen and (max-width:1290px){
+    .main-footer{
+        gap: 100px;
+    }
+}
+
+@media only screen and (max-width:1160px){
+    .main-footer{
+        gap: 60px;
+    }
+}
+
+@media only screen and (max-width:1050px){
+    .main-footer{
+        gap: 30px;
+    }
+}
+
+@media only screen and (max-width:1020px){
+   .main-footer{
+    flex-wrap: wrap;
+    gap: 30px;
+
+   }
+   .first-footer{
+    /* display: flex; */
+    
+   }
+   .first-footer .main-p{
+    width: 350px;
+    /* max-width: 100%; */
+   }
+}
+
+@media only screen and (max-width:456px){
+    .first-footer .main-p{
+        width: 300px;
+        margin-left: 20px;
+        /* max-width: 100%; */
+       }
+       .main-footer{
+        margin-top: 30px;
+       }
+}
+

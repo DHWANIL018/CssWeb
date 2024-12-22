@@ -1,0 +1,140 @@
+/* Shree Ganeshay namah  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif ;
+    
+}
+@font-face {
+    font-family: PoiretOne-Regular;
+    src: url(IMGs/PoiretOne-Regular.ttf);
+}
+html{
+    /* overflow-x: hidden; */
+}
+body{
+    background-color: black;
+    color: white;
+}
+                /* header    */
+header{
+    display: flex;
+    height: 130px;
+    align-items: center;
+    /* background-color: red;/ */
+    padding: 0 7rem;
+    justify-content: space-between;
+    margin-bottom: 26px;
+}
+header .logo{
+    margin-top: 20px;
+}
+header .icon{
+    margin-top: 10px;
+    display: flex;
+    gap: 19px;
+}
+header .icon i{
+    color: white;
+    font-size: 1.1rem;
+    transition: .6s;
+}
+header .icon i:hover{
+    transform: rotateY(180deg);
+    color: yellow;
+}
+.logo img{
+    height: 75px;
+    width: 250px;
+    margin-left: 60PX;
+}
+header button{
+    padding: 12px 22px;
+    font-size: 1.1rem;
+    color: #E5BF4A;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid #E5BF4A;
+    transition: .3s;
+}
+header button:hover{
+    background-color: #E5BF4A;
+    color: white;
+}
+/* header  */
+
+/* banner section  */
+.banner-main{
+    margin-bottom: 60px;
+}
+.banner-img{
+    background-image: url(../IMGs/banner.webp);
+    /* height: 650px; */
+    max-width: 100%;
+    height: 440px;
+    /* width: 100%; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* padding: 160px 10px 10px 280px; */
+    padding: 100px 10px 10px 200px  ;
+}
+.banner-img h1{
+    color: white;
+    font-family: PoiretOne-Regular;
+    font-size: 4.2rem;
+    font-weight: 100;
+    width: 440px;
+    margin-bottom: 40px;
+}
+.banner-img button{
+    height: 60px;
+    width: 170px;
+    background-color: #E5BF4A;
+    border: 1px solid #E5BF4A;
+    color: black;
+    font-family: sans-serif;
+    /* border-radius: 5px; */
+    font-size: .9rem;
+    text-transform: uppercase;
+    transition: .4s;
+}
+.banner-img button:hover{
+    background-color: transparent;
+    color: #E5BF4A;
+}
+
+/* Add - TO Product Section  */
+.First-Row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    flex-wrap: wrap; /* Add this to wrap items on smaller screens */
+}
+
+.cake-one, .cake-two, .cake-three {
+    width: 200px; /* Set default width */
+    height: 200px; /* Set default height */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cake-one{
+    background-image: url(../IMGs/items1.jpg.webp);
+}
+@media (max-width: 768px) {
+    .cake-one, .cake-two, .cake-three {
+        width: 150px; /* Smaller width for medium screens */
+        height: 150px; /* Smaller height for medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .cake-one, .cake-two, .cake-three {
+        width: 100px; /* Smaller width for small screens */
+        height: 100px; /* Smaller height for small screens */
+    }
+}
