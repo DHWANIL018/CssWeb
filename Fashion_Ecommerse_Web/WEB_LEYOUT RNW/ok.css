@@ -1,0 +1,57 @@
+.flex_1{
+    display: flex;
+}
+.first-img-fashion{
+    background-image: url(IMGs/1st\ img\ women..webp);
+   width: 980px;
+   height: 690px;
+    background-size: cover;
+    background-position: center;
+    margin: 0px 0px 10px 0px;
+    padding: 260px 10px 10px 80px;
+}
+.second-img-fashion{
+    background-image: url(IMGs/category-2.jpg);
+    width: 500px;
+    background-size: contain;
+    height: 400px;
+     background-repeat: no-repeat;
+  margin-left: 10px;
+  margin-right: px;
+  padding: 110px 0px 0px 40px;
+  margin-bottom: 15px;
+}
+.third-img-fashion{
+      background-image: url(IMGs/category-3.jpg);
+      width: 500px;
+      background-size: cover;
+      height: 345px;
+       background-position: center;
+       background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: px;
+    padding: 110px 0px 0px 40px;
+    margin-top: -70px;
+  }
+  .four-img-fashion{
+      background-image: url(IMGs/category-4.jpg);
+      width: 500px;
+      background-size: contain;
+      height: 400px;
+       background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: px;
+    margin-bottom: 15px;
+    padding: 110px 0px 0px 40px;
+  }
+  .fifth-img-fashion{
+      background-image: url(IMGs/category-.jpg);
+      width: 500px;
+      background-size: cover;
+      height: 345px;
+       background-position: center;
+       background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-top: -70px;
+    padding: 110px 0px 0px 40px;
+  }
