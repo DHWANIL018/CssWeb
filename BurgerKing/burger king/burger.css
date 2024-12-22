@@ -1,0 +1,556 @@
+       body{
+    background-color: #F8F6F3;
+    
+   }
+   header{
+    background-color: #F8F6F3 ;
+    position: sticky;
+    top: 0%;
+    
+    height: 50px;
+    z-index: 1;
+   }
+   
+   .one{
+        margin-left: 50px;
+        float: left;
+        border-radius: 50%;
+      /* bottom: -11px; */
+      /* z-index: 2; */
+    
+    }
+    
+    .two{
+        float: left;
+        margin-top: 0%;
+        color: grey;
+        margin-left: 130px;
+    }
+    .three{
+        float: left;
+        margin-top: 0%;
+        color: orange;
+        font-size: 25px;
+        margin-left: 5px;
+    }
+    .four{
+        float: left;
+        margin-top: 0%;
+        color: orange;
+        margin-left: 5px;
+        
+    }
+    .five{
+        float: left;
+        margin-top: 0%;
+        color: grey;
+        margin-left: 5px;
+    }
+    .place{
+    float: left;
+    height: 16px;
+    width: 270px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 30px;
+            /* margin: 10px; */
+        color: orange;
+            padding: 10px;
+    margin-top: 0%;
+    /* background-color:  #fbfaf8; */
+    /* margin-bottom: 0%; */
+    margin-left: 10PX;
+    text-align: center;
+    }
+    .done{
+    margin-top:-30px;
+    border: none;
+    }
+    .seven{
+        margin-left: 80px;
+        float: left;    
+        color:gray;
+    }
+    .eight{
+    float: left;  
+    margin-top: 08px; 
+    margin-left: 310px;
+    color: grey;
+    }
+    .nine{
+        float: left;
+        margin-top: 08px;
+        color: grey;
+    }
+    .ten{
+        float: left;
+        margin-left: 40px;
+        color: grey;
+        margin-top: 8px;
+    }
+    .eleven{
+        float: left;
+        margin-top: 8px;
+        color: gray;
+    }
+    .twelve{
+        float: left;
+        margin-top: 8px;
+        color: gray;
+        margin-left: 40px;
+    }
+    .thirteen{
+        float: left;
+        margin-top: 8px;
+        color: gray;
+    }
+    .fourteen{
+        float: left;
+        margin-top: 8px;
+        color: gray;
+        margin-left: 40px;
+    }
+    .fifteen{
+        float: left;
+        margin-top: 8px;
+        color: gray;
+    }
+    .sixteen{
+        float: left;
+        margin-top: 8px;
+        color: orange;
+        margin-left: 180px;
+    }
+    .adress{
+        color: orange;
+        margin-left: -54px;
+
+    }
+    .carousel__image{
+        height: 400px;
+        width: 100%;
+    }
+    .red
+    {
+        background-color: antiquewhite;
+        height: 380px;
+        width: 100%;
+        margin-top: -25px;
+    }
+    .seventeen{
+        color: black;
+        margin-left: 70PX;
+    
+    }
+    .image15{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 30px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image1{
+        background-color: #fbfaf8;
+        margin-top: 20px;
+        /* margin-left: 30px; */
+        height: 80px;
+        border-radius: 5px;
+        margin-left: 70px;
+        padding: 5px;
+    }
+    .image2{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 30px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image3{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image4{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image5{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image6{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image7{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image8{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .image9{
+        background-color:#fbfaf8;
+        margin-top: 20px;
+        margin-left: 40px;
+        height: 80px;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .flex{
+        display: flex;
+    
+    }
+    .new{
+
+    margin-left: 60px;
+    
+    font-size: 20px;
+    }
+    .best{
+        margin-left: 50px;
+        font-size: 20px;
+        width: 90px;
+    }
+    .whopper{
+        margin-left: 45px;
+        font-size:20px;
+    }
+    .burger{
+        margin-left: 70px;
+        font-size:20px;
+        width: 120px;
+    }
+    .king{
+        margin-left: 30px;
+        font-size:20px;
+        width: 120px;
+    }
+    .sides{
+        margin-left: 25px;
+        font-size:20px;
+    }
+    .beverages{
+        margin-left: 85px;
+        font-size:20px;
+    }
+    .chicken{
+        
+        margin-left: 70px;
+        font-size:20px;
+        width: 120px;
+    }
+    .bk{
+        margin-left: 15px;
+        font-size:20px;
+    }
+    .friend{
+        margin-left: 50px;
+        font-size:20px;
+        width: 120px;
+    }
+    .Kingdeal{
+    margin-top: 55px;
+    margin-left: 60px;
+    font-size:25px;
+    }
+    .flex2{
+        display: flex;
+    }
+    .dealsday{
+        height: 200px;
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    .dealsday2{
+        height: 200px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .dealsday3{
+        height: 200px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+  .dealsday4{
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  .special{
+    margin-top: 55px;
+    margin-left: 60px;
+    font-size:25px;
+  }
+  .veggie{
+    margin-left: 60px;
+    height: 200pX;
+    border-top-left-radius: 16px;
+    /* display: flex; */
+  }
+  .white{
+    background-color:#FFFFFF;
+    height: 200px;
+    width: 220px;
+    margin-left: 206px;
+    margin-top: -206px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    position: relative;
+    display: flex;
+  }
+  .bkburger{
+    font-size: 18px;
+    position:absolute;
+   left: 230px;
+   width: 120px;
+  top: 1260px;
+  }
+  .pureveg{
+    position: relative;
+    height: 20px;
+    left: 380px;
+    top: -190px;
+  }
+  .american{
+    position: relative;
+    width: 140px;
+    color: gray;
+    left: 220px;
+    top: -180px;
+  }
+  .price1{
+    position: relative;
+    left: 220px;
+    top: -180px;
+  }
+  .add1{
+    position: relative;
+    border: 1px solid;
+    width: 80px;
+    border-radius: 10px;
+ padding: 5px;
+    color: orange;
+   text-align: center;
+    font-size: 15px;
+    left: 310px;
+    bottom: 50px;
+    /* position: absolute; */
+  }
+  .fries{
+    position: relative;
+    top: -370px;
+    height: 200px;
+    left: 450px;
+    border-top-left-radius: 16px;
+  }
+  .white2{
+    position: relative;
+    background-color: rebeccapurple;
+    height: 40px;
+    width: 100px;
+  }
+  .whiteboard2{
+    position: relative;
+  background-color: #FFFFFF;
+  height: 200px;
+  width:220px;
+  margin-left: 700px;
+  top: -540px;
+  
+  }
+ 
+  .price5{
+    position: relative;
+    margin-top: -170px;
+    margin-left: 220px;
+    font-size: 30px;
+  }
+  .bkburger3{
+    position: relative;
+    left: 225px;
+    bottom: 220px;
+    font-size: 18px;
+  }
+  .american1{
+    position: relative;
+    /* width: 140px; */
+    color: gray;
+    left: 220px;
+    top: -180px;
+  }
+  .add2{
+    position: relative;
+    border: 1px solid;
+    width: 80px;
+    border-radius: 10px;
+ padding: 5px;
+    color: orange;
+   text-align: center;
+    font-size: 15px;
+    left: 310px;
+    bottom: 50px;
+  }
+ .price6{
+      position: relative;
+    margin-top: -150px;
+    margin-left: 220px;
+    font-size: 30px;
+    bottom: 2px;
+ }
+ .american2{
+    position: relative;
+    width: 140px;
+    color: gray;
+    left: 220px;
+    top: -180px;
+ }
+ .bkburger4{
+    position: relative;
+    left: 225px;
+    bottom: 220px;
+    font-size: 18px;
+    width: 120px;
+ }
+ .bkburger5{
+    position: relative;
+    left: 225px;
+    bottom: 220px;
+    font-size: 18px;
+    width: 120px;
+ }
+ .Explorer{
+    color: #fff;
+    border: solid 1px;
+    /* border-color: black; */
+    background-color: #e70;
+    border-radius: 50px;
+    width: 500px;
+    /* margin-bottom: 900px; */
+    margin-top: -70px;
+    padding: 7px;
+ }
+ .wall{
+    margin-top: 30px;
+    /* height: 10px; */
+    width: 80%;
+ }
+ .Disclamier{
+    margin-top: 10px;
+ } 
+ 
+.flex7{
+    display: flex;
+}
+
+
+.footer{
+    height: 500px;
+    width: 100%;
+    background-color:#323231; 
+}
+.info{
+    margin-top: 70px;
+    margin-left: 170px;
+     color: #fff;
+}
+.CONTACTT{
+    margin-top: 70px;
+    margin-left: 170px;
+    color: #fff;
+}
+.BKCARES{
+    margin-top: 70px;
+    margin-left: 170px;
+    color: #fff;
+}
+.LEGAL1{
+    margin-top: 70px;
+    margin-left: 170px;
+    color: #fff;
+}
+.Dowlode{
+    margin-top: 70px;
+    margin-left: 170px;
+    color: #fff;
+}
+.aboutt{
+    color: #fff;
+    margin-left: 175px;
+    position: absolute;
+}
+.faqss{
+    position: relative;
+    color: #fff;
+    left: 450px;
+    position: absolute;
+}
+.nutrition{
+    position: relative;
+    color: #fff;
+    left: 730px;
+    position: absolute;
+}
+.tearms{
+    position: relative;
+    color: #fff;
+    left: 1020px;
+    position: absolute;
+}
+.applephoto{
+    position: relative;
+    margin-left: 1270px;
+}
+.black{
+    margin-top: 260px;
+    color: #fff;
+}
+.burgerlast{
+    height: 50px;
+    width: 50px;
+}
+.last{
+    display: flex;
+}
+.TM{
+    color: #fff;
+     margin-left: 30%;  
+}
+.face{
+    margin-left: 440px;
+    
+}
+.insta{
+    margin-left: 20px;
+}
+.twitter{
+    margin-left: 20px;
+}
+.youtu{
+    margin-left: 20px;
+}
