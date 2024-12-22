@@ -1,0 +1,49 @@
+/* shree ganeshay namah  */
+
+/* <!-- header 2 start  */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.color{
+    background-color: #F5F5F5;
+    height: 80px;
+    box-shadow: 10px;
+}
+.main_logo{
+    padding: 10px;
+    margin-left: 200px;
+}
+
+.main_ul ul {
+    margin-top: 30px;
+    margin-left: 400px;
+    /* font-size: 14px; */
+}
+.main_ul ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 10px;
+    font-weight: 500;
+}
+.main_ul ul li a{
+    text-decoration: none;
+   color: black;
+   font-size: 19px;
+}
+.main_ul ul li a:hover{
+  color: #E31E25;
+  transition: 0.2s;
+}
+.flex_1{
+    display: flex;
+}
+/* <!-- header 2 ends  --> */
+
+/* slider part start  */
+
+.main_blue_color{
+    
+}
+/* slider part end  */
